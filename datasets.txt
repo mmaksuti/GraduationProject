@@ -1,0 +1,12 @@
+DFG augmented dataset: https://drive.google.com/drive/folders/1dVOWgYTvVZYcS-fzl75B6nKOFM54pVQ7?usp=drive_link
+
+DFG annotations:
+https://drive.google.com/file/d/1r89aYzobYbfZRwwYlnvAixcdv_06Ypli/view?usp=drive_link (truncated)
+https://drive.google.com/file/d/1G9dl-mS9hR8E2XUe0zygjIzlzbKwWjTa/view?usp=drive_link (full, with difficult instances marked as ignore)
+https://drive.google.com/file/d/1j7JcTiA4CzuYBiqlMRRKfSLEF9a78Hw9/view?usp=drive_link (testing data, full)
+https://drive.google.com/file/d/1-43L-V1Ybok4MsJYLk7gl5q79pCIwEPe/view?usp=drive_link (testing data, truncated)
+
+DFG saved models: https://drive.google.com/drive/folders/1zwXGkva9rVkBduK4gdGIAjJwIHtvgm3_?usp=drive_link
+
+RSV dataset (original + isloated subjects + grayscale processed + annotations + saves): https://drive.google.com/drive/folders/1GE1jhlpTItAGH5HZZlwPd-KgsVfQ_VQO?usp=drive_link
+
